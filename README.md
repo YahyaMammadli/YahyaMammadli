@@ -3,7 +3,7 @@
 <h3 align="center">Full Stack Developer (Intern)</h3>
 
 <p align="center">
-  <img src="./developer.gif" alt="Developer illustration" width="380">
+  <img src="./developer.gif" alt="Developer illustration" width="100%">
 </p>
 
 <p align="center">
