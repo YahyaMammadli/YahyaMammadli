@@ -1,6 +1,3 @@
-# 👋 Hi, I'm Yahya Mammadli
-
-<h3 align="center">Full Stack Developer (Intern)</h3>
 
 <p align="center">
   <img src="./developer.gif" alt="Developer illustration" width="100%">
