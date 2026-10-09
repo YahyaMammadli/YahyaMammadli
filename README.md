@@ -40,7 +40,7 @@
   <a href="https://mui.com/"><img src="https://skillicons.dev/icons?i=materialui" width="55" alt="Material UI"></a>
 </p>
 
-**HTML · CSS · JavaScript · TypeScript · React · React Native · Zustand · Redux · MobX · Bootstrap · Tailwind CSS · Material UI**
+**HTML · CSS · JavaScript · TypeScript · React · React Native · Redux · Zustand · MobX · Bootstrap · Tailwind CSS · Material UI**
 
 ---
 
