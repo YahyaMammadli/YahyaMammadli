@@ -31,14 +31,16 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" width="55" alt="JavaScript"></a>
   <a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=ts" width="55" alt="TypeScript"></a>
   <a href="https://react.dev/"><img src="https://skillicons.dev/icons?i=react" width="55" alt="React"></a>
+  <a href="https://reactnative.dev/"><img src="https://skillicons.dev/icons?i=react" width="55" alt="React Native"></a>
   <a href="https://redux.js.org/"><img src="https://skillicons.dev/icons?i=redux" width="55" alt="Redux"></a>
+  <a href="https://zustand.docs.pmnd.rs/"><img src="https://img.shields.io/badge/Zustand-state%20management-black" height="55" alt="Zustand"></a>
   <a href="https://mobx.js.org/"><img src="https://skillicons.dev/icons?i=mobx" width="55" alt="MobX"></a>
   <a href="https://getbootstrap.com/"><img src="https://skillicons.dev/icons?i=bootstrap" width="55" alt="Bootstrap"></a>
   <a href="https://tailwindcss.com/"><img src="https://skillicons.dev/icons?i=tailwind" width="55" alt="Tailwind CSS"></a>
   <a href="https://mui.com/"><img src="https://skillicons.dev/icons?i=materialui" width="55" alt="Material UI"></a>
 </p>
 
-**HTML · CSS · JavaScript · TypeScript · React · Redux · MobX · Bootstrap · Tailwind CSS · Material UI**
+**HTML · CSS · JavaScript · TypeScript · React · React Native · Zustand · Redux · MobX · Bootstrap · Tailwind CSS · Material UI**
 
 ---
 
