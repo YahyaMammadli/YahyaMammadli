@@ -33,7 +33,7 @@
   <a href="https://react.dev/"><img src="https://skillicons.dev/icons?i=react" width="55" alt="React"></a>
   <a href="https://reactnative.dev/"><img src="https://skillicons.dev/icons?i=react" width="55" alt="React Native"></a>
   <a href="https://redux.js.org/"><img src="https://skillicons.dev/icons?i=redux" width="55" alt="Redux"></a>
-  <a href="https://zustand.docs.pmnd.rs/"><img src="https://img.shields.io/badge/Zustand-state%20management-black" height="55" alt="Zustand"></a>
+  <a href="https://zustand.docs.pmnd.rs/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/zustand/zustand-original.svg" width="55" alt="Zustand"></a>
   <a href="https://mobx.js.org/"><img src="https://skillicons.dev/icons?i=mobx" width="55" alt="MobX"></a>
   <a href="https://getbootstrap.com/"><img src="https://skillicons.dev/icons?i=bootstrap" width="55" alt="Bootstrap"></a>
   <a href="https://tailwindcss.com/"><img src="https://skillicons.dev/icons?i=tailwind" width="55" alt="Tailwind CSS"></a>
