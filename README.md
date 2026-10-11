@@ -88,9 +88,10 @@
 <p>
   <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" width="55" alt="Git"></a>
   <a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker" width="55" alt="Docker"></a>
+  <a href="https://www.postman.com/"><img src="https://skillicons.dev/icons?i=postman" width="55" alt="Postman"></a>
 </p>
 
-**Git · Docker**
+**Git · Docker · Postman**
 
 ---
 
