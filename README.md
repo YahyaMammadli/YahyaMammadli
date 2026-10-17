@@ -1,4 +1,3 @@
-
 <p align="center">
   <img src="./developer.gif" alt="Developer illustration" width="100%">
 </p>
@@ -38,9 +37,11 @@
   <a href="https://getbootstrap.com/"><img src="https://skillicons.dev/icons?i=bootstrap" width="55" alt="Bootstrap"></a>
   <a href="https://tailwindcss.com/"><img src="https://skillicons.dev/icons?i=tailwind" width="55" alt="Tailwind CSS"></a>
   <a href="https://mui.com/"><img src="https://skillicons.dev/icons?i=materialui" width="55" alt="Material UI"></a>
+  <a href="https://zod.dev/"><img src="https://cdn.simpleicons.org/zod/3068B7" width="55" alt="Zod"></a>
+  <a href="https://react-native-async-storage.github.io/async-storage/"><img src="https://img.shields.io/badge/Async_Storage-4A90E2?style=for-the-badge&logo=react&logoColor=white" alt="Async Storage"></a>
 </p>
 
-**HTML · CSS · JavaScript · TypeScript · React · React Native · Redux · Zustand · MobX · Bootstrap · Tailwind CSS · Material UI**
+**HTML · CSS · JavaScript · TypeScript · React · React Native · Redux · Zustand · MobX · Bootstrap · Tailwind CSS · Material UI · Zod · Async Storage**
 
 ---
 
