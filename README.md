@@ -22,6 +22,22 @@
 
 # 🛠️ My Skill Set
 
+## ⚙️ Backend & .NET
+
+<p>
+  <a href="https://dotnet.microsoft.com/languages/csharp"><img src="https://skillicons.dev/icons?i=cs" width="55" alt="C#"></a>
+  <a href="https://dotnet.microsoft.com/apps/aspnet"><img src="https://skillicons.dev/icons?i=dotnet" width="55" alt="ASP.NET Core"></a>
+  <a href="https://learn.microsoft.com/ef/core/"><img src="https://skillicons.dev/icons?i=dotnet" width="55" alt="Entity Framework Core"></a>
+  <a href="https://jwt.io/"><img src="./icons/jwt.svg" width="55" alt="JWT"></a>
+  <a href="https://www.microsoft.com/sql-server"><img src="https://skillicons.dev/icons?i=mssql" width="55" alt="Microsoft SQL Server"></a>
+  <a href="https://www.postgresql.org/"><img src="https://skillicons.dev/icons?i=postgres" width="55" alt="PostgreSQL"></a>
+  <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" width="55" alt="Python"></a>
+</p>
+
+**ASP.NET Core Web API · ASP.NET Core MVC · Entity Framework Core · JWT Authentication · Microsoft SQL Server · PostgreSQL · Python**
+
+---
+
 ## 🌐 Frontend
 
 <p>
@@ -30,32 +46,35 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" width="55" alt="JavaScript"></a>
   <a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=ts" width="55" alt="TypeScript"></a>
   <a href="https://react.dev/"><img src="https://skillicons.dev/icons?i=react" width="55" alt="React"></a>
-  <a href="https://reactnative.dev/"><img src="https://skillicons.dev/icons?i=react" width="55" alt="React Native"></a>
   <a href="https://redux.js.org/"><img src="https://skillicons.dev/icons?i=redux" width="55" alt="Redux"></a>
   <a href="https://zustand.docs.pmnd.rs/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/zustand/zustand-original.svg" width="55" alt="Zustand"></a>
   <a href="https://mobx.js.org/"><img src="https://skillicons.dev/icons?i=mobx" width="55" alt="MobX"></a>
   <a href="https://getbootstrap.com/"><img src="https://skillicons.dev/icons?i=bootstrap" width="55" alt="Bootstrap"></a>
   <a href="https://tailwindcss.com/"><img src="https://skillicons.dev/icons?i=tailwind" width="55" alt="Tailwind CSS"></a>
   <a href="https://mui.com/"><img src="https://skillicons.dev/icons?i=materialui" width="55" alt="Material UI"></a>
-  <a href="https://zod.dev/"><img src="https://cdn.simpleicons.org/zod/3068B7" width="55" alt="Zod"></a>
-  <a href="https://react-native-async-storage.github.io/async-storage/"><img src="https://img.shields.io/badge/Async_Storage-4A90E2?style=for-the-badge&logo=react&logoColor=white" alt="Async Storage"></a>
+  <a href="https://zod.dev/"><img src="./icons/zod.svg" width="55" alt="Zod"></a>
 </p>
 
-**HTML · CSS · JavaScript · TypeScript · React · React Native · Redux · Zustand · MobX · Bootstrap · Tailwind CSS · Material UI · Zod · Async Storage**
+**HTML · CSS · JavaScript · TypeScript · React · Redux · Zustand · MobX · Bootstrap · Tailwind CSS · Material UI · Zod**
 
 ---
 
-## ⚙️ Backend & .NET
+## 📱 Mobile Development
 
 <p>
-  <a href="https://dotnet.microsoft.com/apps/aspnet"><img src="https://skillicons.dev/icons?i=dotnet" width="55" alt="ASP.NET Core"></a>
-  <a href="https://dotnet.microsoft.com/languages/csharp"><img src="https://skillicons.dev/icons?i=cs" width="55" alt="C#"></a>
-  <a href="https://learn.microsoft.com/ef/core/"><img src="https://skillicons.dev/icons?i=dotnet" width="55" alt="Entity Framework Core"></a>
+  <a href="https://reactnative.dev/"><img src="https://skillicons.dev/icons?i=react" width="55" alt="React Native"></a>
+  <a href="https://expo.dev/"><img src="./icons/expo.svg" width="55" alt="Expo"></a>
+  <a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=ts" width="55" alt="TypeScript"></a>
+  <a href="https://react-native-async-storage.github.io/async-storage/"><img src="./icons/async-storage.svg" width="55" alt="Async Storage"></a>
+  <a href="https://react-hook-form.com/"><img src="./icons/react-hook-form.svg" width="55" alt="React Hook Form"></a>
+  <a href="https://zod.dev/"><img src="./icons/zod.svg" width="55" alt="Zod"></a>
+  <a href="https://axios-http.com/"><img src="./icons/axios.svg" width="55" alt="Axios"></a>
+  <a href="https://www.i18next.com/"><img src="./icons/i18next.svg" width="55" alt="i18next"></a>
+  <a href="https://maplibre.org/"><img src="./icons/maplibre.svg" width="55" alt="MapLibre"></a>
   <a href="https://dotnet.microsoft.com/apps/maui"><img src="https://skillicons.dev/icons?i=dotnet" width="55" alt=".NET MAUI"></a>
-  <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" width="55" alt="Python"></a>
 </p>
 
-**ASP.NET Core Web API · ASP.NET Core MVC · Entity Framework Core · .NET MAUI (Beginner) · Python**
+**React Native · Expo · Expo Router · TypeScript · Async Storage · React Hook Form · Zod · Axios · i18next · Reanimated · Expo Notifications · Expo Location · MapLibre · .NET MAUI (Beginner)**
 
 ---
 
@@ -64,23 +83,15 @@
 <p>
   <a href="https://dotnet.microsoft.com/languages/csharp"><img src="https://skillicons.dev/icons?i=cs" width="55" alt="C#"></a>
   <a href="https://isocpp.org/"><img src="https://skillicons.dev/icons?i=cpp" width="55" alt="C++"></a>
-  <a href="https://www.rust-lang.org/"><img src="https://skillicons.dev/icons?i=rust" width="55" alt="Rust"></a>
   <a href="https://www.c-language.org/"><img src="https://skillicons.dev/icons?i=c" width="55" alt="C"></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" width="55" alt="JavaScript"></a>
+  <a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=ts" width="55" alt="TypeScript"></a>
   <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" width="55" alt="Python"></a>
+  <a href="https://en.wikipedia.org/wiki/SQL"><img src="./icons/sql.svg" width="55" alt="SQL"></a>
+  <a href="https://www.rust-lang.org/"><img src="https://skillicons.dev/icons?i=rust" width="55" alt="Rust"></a>
 </p>
 
-**C# · C++ · Rust (Beginner) · C · Python**
-
----
-
-## 🗄️ Databases
-
-<p>
-  <a href="https://www.microsoft.com/sql-server"><img src="https://skillicons.dev/icons?i=mssql" width="55" alt="Microsoft SQL Server"></a>
-  <a href="https://www.postgresql.org/"><img src="https://skillicons.dev/icons?i=postgres" width="55" alt="PostgreSQL"></a>
-</p>
-
-**Microsoft SQL Server · PostgreSQL**
+**C# · C++ · C · JavaScript · TypeScript · Python · SQL · Rust (Beginner)**
 
 ---
 
