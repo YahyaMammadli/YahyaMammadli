@@ -29,7 +29,7 @@
   <a href="https://dotnet.microsoft.com/apps/aspnet"><img src="https://skillicons.dev/icons?i=dotnet" width="55" alt="ASP.NET Core"></a>
   <a href="https://learn.microsoft.com/ef/core/"><img src="https://skillicons.dev/icons?i=dotnet" width="55" alt="Entity Framework Core"></a>
   <a href="https://jwt.io/"><img src="./icons/jwt.svg" width="55" alt="JWT"></a>
-  <a href="https://www.microsoft.com/sql-server"><img src="https://skillicons.dev/icons?i=mssql" width="55" alt="Microsoft SQL Server"></a>
+  <a href="https://www.microsoft.com/sql-server"><img src="./icons/mssql.svg" width="55" alt="Microsoft SQL Server"></a>
   <a href="https://www.postgresql.org/"><img src="https://skillicons.dev/icons?i=postgres" width="55" alt="PostgreSQL"></a>
   <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" width="55" alt="Python"></a>
 </p>
