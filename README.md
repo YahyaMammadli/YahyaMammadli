@@ -46,6 +46,7 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" width="55" alt="JavaScript"></a>
   <a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=ts" width="55" alt="TypeScript"></a>
   <a href="https://react.dev/"><img src="https://skillicons.dev/icons?i=react" width="55" alt="React"></a>
+  <a href="https://nextjs.org/"><img src="https://skillicons.dev/icons?i=nextjs" width="55" alt="Next.js"></a>
   <a href="https://redux.js.org/"><img src="https://skillicons.dev/icons?i=redux" width="55" alt="Redux"></a>
   <a href="https://zustand.docs.pmnd.rs/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/zustand/zustand-original.svg" width="55" alt="Zustand"></a>
   <a href="https://mobx.js.org/"><img src="./icons/mobx.svg" width="55" alt="MobX"></a>
@@ -55,7 +56,7 @@
   <a href="https://zod.dev/"><img src="./icons/zod.svg" width="55" alt="Zod"></a>
 </p>
 
-**HTML · CSS · JavaScript · TypeScript · React · Redux · Zustand · MobX · Bootstrap · Tailwind CSS · Material UI · Zod**
+**HTML · CSS · JavaScript · TypeScript · React · Next.js · Redux · Zustand · MobX · Bootstrap · Tailwind CSS · Material UI · Zod**
 
 ---
 
